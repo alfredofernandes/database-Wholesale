@@ -1,8 +1,8 @@
-DROP DATABASE IF EXISTS WHOLESALE;
-
 -- -----------------------------------------------------
 -- DATABASE WHOLESALE
 -- -----------------------------------------------------
+DROP DATABASE IF EXISTS WHOLESALE;
+
 CREATE DATABASE IF NOT EXISTS WHOLESALE;
 
 USE WHOLESALE ;
